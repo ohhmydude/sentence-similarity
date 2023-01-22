@@ -14,6 +14,7 @@ While these sentences barely even use the exact words, they are semantically ver
 There are two kinds on similarity:
 Syntactic Similarity: Focuses more on the structure of the sentence
 Semantic Similarity: Focuses more on the meaning of the sentence.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 In this project, I’ve analysed the various similarity methods and computed the performance measurement of the model which is build on the SICK dataset.
