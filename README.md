@@ -12,7 +12,9 @@ Think about the following two sentences:
 While these sentences barely even use the exact words, they are semantically very similar, while their lexical similarity is nearly non-existent.
 
 There are two kinds on similarity:
+
 Syntactic Similarity: Focuses more on the structure of the sentence
+
 Semantic Similarity: Focuses more on the meaning of the sentence.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
